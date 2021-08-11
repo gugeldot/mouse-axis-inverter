@@ -20,7 +20,7 @@ Finally click on it.
 **If you don't want them to show windows cmd, rename their extension from .py to .pyw**
 
 ## Windows Executables 
-Windows executables are provided for commodity, you can make them yourself by using [Nuitka's lib](https://nuitka.net/doc/user-manual.html):
+Windows executables are provided for convenience, you can make them yourself by using [Nuitka's lib](https://nuitka.net/doc/user-manual.html):
 ```shell 
 python -m pip install nuitka
 ```
