@@ -22,7 +22,7 @@ Finally click on it.
 ## Windows Executables 
 Windows executables are provided for convenience, you can make them yourself by using [Nuitka's lib](https://nuitka.net/doc/user-manual.html):
 ```shell 
-python -m pip install nuitka
+pip install nuitka
 ```
 ```shell
 python -m nuitka --windows-disable-console --follow-imports MouseX.py
